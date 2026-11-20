@@ -10,13 +10,11 @@ An AI-powered personal finance advisor that helps users analyse income, expenses
 
 
 
-Google Drive Documentation: https://drive.google.com/drive/folders/11FaKHhWlx5frpD9HWxAaZypD8gZ8-aaH?usp=sharing
-
+Google Drive Documentation:https://drive.google.com/file/d/1e-G1X664m01Q861njV9gOrmPXgyZo63F/view?usp=sharing
 
 
 \## GitHub Repository
 
 
 
-https://github.com/swarajombale704-debug/personal-finance-advisor-bot
-
+https://github.com/Onkarmagar4470/personal-finance-advisor-bot-07
